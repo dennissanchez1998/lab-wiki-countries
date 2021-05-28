@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cuadro {
+
+  min-height: 10vh;
+  border-radius: 0px !important;
+
+}
